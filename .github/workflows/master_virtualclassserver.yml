@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'VirtualClassServer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EAD9CF8F2F34D4EBAB4AE48C6E5F47F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_34BE16E1788D4892BA11437F359F9D43 }}
           package: .
